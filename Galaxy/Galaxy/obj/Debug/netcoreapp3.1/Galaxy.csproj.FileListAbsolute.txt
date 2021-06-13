@@ -1,0 +1,13 @@
+C:\Users\Dule\Desktop\Galaxy\Galaxy\bin\Debug\netcoreapp3.1\Galaxy.exe
+C:\Users\Dule\Desktop\Galaxy\Galaxy\bin\Debug\netcoreapp3.1\Galaxy.deps.json
+C:\Users\Dule\Desktop\Galaxy\Galaxy\bin\Debug\netcoreapp3.1\Galaxy.runtimeconfig.json
+C:\Users\Dule\Desktop\Galaxy\Galaxy\bin\Debug\netcoreapp3.1\Galaxy.runtimeconfig.dev.json
+C:\Users\Dule\Desktop\Galaxy\Galaxy\bin\Debug\netcoreapp3.1\Galaxy.dll
+C:\Users\Dule\Desktop\Galaxy\Galaxy\bin\Debug\netcoreapp3.1\Galaxy.pdb
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.csprojAssemblyReference.cache
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.AssemblyInfoInputs.cache
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.AssemblyInfo.cs
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.dll
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.pdb
+C:\Users\Dule\Desktop\Galaxy\Galaxy\obj\Debug\netcoreapp3.1\Galaxy.genruntimeconfig.cache
